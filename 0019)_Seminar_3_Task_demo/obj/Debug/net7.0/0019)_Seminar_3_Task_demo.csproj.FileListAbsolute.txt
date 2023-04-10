@@ -1,0 +1,15 @@
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\bin\Debug\net7.0\0019)_Seminar_3_Task_demo.exe
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\bin\Debug\net7.0\0019)_Seminar_3_Task_demo.deps.json
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\bin\Debug\net7.0\0019)_Seminar_3_Task_demo.runtimeconfig.json
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\bin\Debug\net7.0\0019)_Seminar_3_Task_demo.dll
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\bin\Debug\net7.0\0019)_Seminar_3_Task_demo.pdb
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.AssemblyInfoInputs.cache
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.AssemblyInfo.cs
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.dll
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\refint\0019)_Seminar_3_Task_demo.dll
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.pdb
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\0019)_Seminar_3_Task_demo.genruntimeconfig.cache
+C:\Users\Anton\OneDrive\Desktop\Block_3\0019)_Seminar_3_Task_demo\obj\Debug\net7.0\ref\0019)_Seminar_3_Task_demo.dll
